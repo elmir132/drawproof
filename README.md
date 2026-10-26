@@ -24,6 +24,20 @@
   <a href="docs/submission/what-we-dont-claim.md">What we don't claim</a>
 </p>
 
+> **Team project.** Built in 36 hours by five people at the AI & Fintech XRPL Hackathon NYC (Oct 24-25, 2026, Lending & Borrowing track). We did not place.
+> This repository is a copy of [Jalil-g/XRLP-Hack](https://github.com/Jalil-g/XRLP-Hack) with its full commit history, so every author and date is preserved.
+> Links below to CI runs and releases point to the original repository.
+>
+> | Area | Built by |
+> |---|---|
+> | XRPL money path: vault, loan, escrows, multisig, attestations | Jalil Jabbarli |
+> | Core orchestrator and API | Sean May |
+> | Web app (investor, builder) and pitch deck | Brian Yin |
+> | Inspector app and signing | Rahim Askarov |
+> | AI verifier (evidence checks, release policy, project verification, provider adapters incl. Amazon Bedrock), the design preview in `design/drawproof-ui`, pitch Q&A | Elmir Abdullaiev |
+>
+> The verifier ran in mock mode in the demo. Devnet only. RLUSD is a test token. Not an offer to invest.
+
 A construction-lending marketplace on the XRP Ledger, built like a release pipeline for construction draws. Investors pool RLUSD into a
 native XRPL Vault per project. The Lending Protocol lends to a project account no single party controls. Each milestone's money sits in
 its own escrow that can only pay **this builder** or go back, and it is released only when the milestone's **test suite** is green: a
