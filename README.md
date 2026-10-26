@@ -19,6 +19,7 @@
   <a href="docs/pitch/Drawproof-Pitch.pdf">Pitch deck</a> ·
   <a href="https://github.com/Jalil-g/XRLP-Hack/releases/tag/submission-2026-10-25">Demo video</a> ·
   <a href="docs/submission/README.md">Submission page</a> ·
+  <a href="docs/verifier-and-design-preview.md">Verifier and design preview</a> ·
   <a href="docs/submission/xrpl-primitives.md">Every XRPL primitive, with devnet proof</a> ·
   <a href="docs/05-api.md">API</a> ·
   <a href="docs/submission/what-we-dont-claim.md">What we don't claim</a>
@@ -56,6 +57,17 @@ to invest.**
 The investor opens the Maple St duplex. Foundation passed all ten checks and 9,000 RLUSD went to the builder. Framing failed one check
 (the inspector marked a Schedule of Values line not done) and 12,000 RLUSD stays locked. Then the inspector's view of the same milestone.
 Recorded against the real apps on XRPL devnet with the AI checks in mock mode (labelled on screen).
+
+## Narrated demo
+
+<p align="center">
+  <a href="https://github.com/elmir132/drawproof/releases/tag/demo-videos-2026-10-25"><img src="docs/assets/video-narrated-poster.jpg" alt="Poster frame of the 90-second narrated Drawproof demo: the Maple St Duplex project page with 36,000 RLUSD released for the foundation" width="100%"></a>
+</p>
+
+A 90-second narrated walkthrough (click the image to open the video): the money bar, an honest builder, a reused photo caught, the
+compare view, the inspector's signing, then the same screens on tablet and phone. It was recorded from the [design preview](design/drawproof-ui)
+on **mock data**, with the AI checks in mock mode, and says so on screen. What I built and what is and is not validated:
+[verifier and design preview](docs/verifier-and-design-preview.md).
 
 ## Screenshots
 
